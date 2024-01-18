@@ -1,4 +1,4 @@
-Hello there! 👋 Welcome to my GitHub profile, where passion meets code in the realm of Machine Learning and Artificial Intelligence! I'm TejasH MistrY, a dedicated enthusiast on a mission to explore the endless possibilities that the world of AI and ML has to offer.
+Hello there! 👋 Welcome to my GitHub profile, I'm TejasH MistrY, a dedicated enthusiast on a mission to explore the endless possibilities that the world of AI and ML has to offer.
 
 🚀 About Me
 🧠 Passionate Learner: I have an insatiable curiosity for cutting-edge technologies and a deep passion for the fascinating field of Machine Learning and Artificial Intelligence.
