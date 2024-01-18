@@ -8,4 +8,4 @@ Hello there! 👋 Welcome to my GitHub profile, where passion meets code in the 
 
 🌐 Community Contributor: I believe in the power of collaboration and actively engage with the developer community. I contribute to open-source projects, share insights, and learn from the brilliant minds around me.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=misrytejasm)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mistrytejasm)](https://github.com/anuraghazra/github-readme-stats)
